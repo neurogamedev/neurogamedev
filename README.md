@@ -11,15 +11,8 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-pPnuhjYYfg7Y2cqpSL3rA)
 [![Webpage](https://img.shields.io/badge/Webpage-%23666666.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neuromodgames.com/)
 
-# Coding Languages
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MEL](https://img.shields.io/badge/mel-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LSL](https://img.shields.io/badge/LSL-14b5f1?style=for-the-badge&logo=osano&logoColor=white)
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,ps,ai,ae,au,maya,blender,html,cs,cpp,java,javascript,python,lsl)](https://skillicons.dev)
 
 <!---
 neuromodgames/neuromodgames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
