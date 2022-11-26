@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m Diego Saldivar (@neuromodgames)
+- 👋 Hi, I’m Diego Saldivar (@neurogamedev)
 - 👀 I’m interested in neurogame development, ludonarrative harmonies and wandering around megalopoli.
 - 🌱 I’m currently learning how to deal with UE5.
 - 💞️ I’m looking to collaborate on neurogames made for Neurosity's Crown.
