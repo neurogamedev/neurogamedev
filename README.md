@@ -15,6 +15,9 @@
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,ps,ai,ae,au)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg" title="Maya" alt="Maya" width="40" height="40"/>&nbsp;[![My Skills](https://skillicons.dev/icons?i=blender,html,cs,cpp,java,javascript,python)](https://skillicons.dev) <img src="https://pbs.twimg.com/profile_images/1265766959137734656/Ahc3Egxl_400x400.jpg" title="Linden Scripting Language" alt="Linden Scripting Language" width="50" height="50"/>&nbsp;
 
+# Neuro Game Dev Vlog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 neuromodgames/neurogamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
