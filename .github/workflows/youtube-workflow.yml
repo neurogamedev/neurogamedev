@@ -16,5 +16,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-pPnuhjYYfg7Y2cqpSL3rA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "yyyy.mm.dd"
-          template: '<table><tr><td><a href="$url"><img width="150px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td><a href="$url"><img width="125px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td width="200"><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           max_post_count: 3
