@@ -17,11 +17,11 @@
 
 # Neuro Game Dev Vlog
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hU9Yrpd0VSw"><img width="100px" src="https://i.ytimg.com/vi/hU9Yrpd0VSw/mqdefault.jpg"></a></td>
-<td width="75%"><a href="https://www.youtube.com/watch?v=hU9Yrpd0VSw">Baroque Neuro Game HUD</a><br/>2022.11.25</td></tr></table>
+<td width="200"><a href="https://www.youtube.com/watch?v=hU9Yrpd0VSw">Baroque Neuro Game HUD</a><br/>2022.11.25</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bS8tWftAO8w"><img width="100px" src="https://i.ytimg.com/vi/bS8tWftAO8w/mqdefault.jpg"></a></td>
-<td width="75%"><a href="https://www.youtube.com/watch?v=bS8tWftAO8w">A Baroque Neurogame Blockout &lpar;Neurosity Crown&rpar;</a><br/>2022.10.14</td></tr></table>
+<td width="200"><a href="https://www.youtube.com/watch?v=bS8tWftAO8w">A Baroque Neurogame Blockout &lpar;Neurosity Crown&rpar;</a><br/>2022.10.14</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VnPfHxHiOYI"><img width="100px" src="https://i.ytimg.com/vi/VnPfHxHiOYI/mqdefault.jpg"></a></td>
-<td width="75%"><a href="https://www.youtube.com/watch?v=VnPfHxHiOYI">Neuro Game Dev Blues</a><br/>2022.08.23</td></tr></table>
+<td width="200"><a href="https://www.youtube.com/watch?v=VnPfHxHiOYI">Neuro Game Dev Blues</a><br/>2022.08.23</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!---
