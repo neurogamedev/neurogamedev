@@ -12,8 +12,9 @@
 # External Links
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-pPnuhjYYfg7Y2cqpSL3rA)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desaldivar)
+[![Discord](https://img.shields.io/badge/discord-%237289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.artstation.com/dsaldivar)
 [![ArtStation](https://img.shields.io/badge/artstation-%2313AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/dsaldivar)
-[![Webpage](https://img.shields.io/badge/Webpage-%237a54bf.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neurogamedev.com/)
+[![Webpage](https://img.shields.io/badge/Webpage-%238e7cc3.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neurogamedev.com/)
 
 # Neuro Game Dev Vlog
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=luw3H0FgYSU"><img width="125px" src="https://i.ytimg.com/vi/luw3H0FgYSU/mqdefault.jpg"></a></td>
