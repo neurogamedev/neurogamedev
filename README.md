@@ -17,12 +17,12 @@
 [![Webpage](https://img.shields.io/badge/Webpage-%238e7cc3.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neurogamedev.com/)
 
 # Neuro Game Dev Vlog
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=luw3H0FgYSU"><img width="125px" src="https://i.ytimg.com/vi/luw3H0FgYSU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9XR14K8aL_k"><img width="125px" src="https://i.ytimg.com/vi/9XR14K8aL_k/mqdefault.jpg"></a></td>
+<td width="200"><a href="https://www.youtube.com/watch?v=9XR14K8aL_k">January 2023 Update</a><br/>2023.02.01</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=luw3H0FgYSU"><img width="125px" src="https://i.ytimg.com/vi/luw3H0FgYSU/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=luw3H0FgYSU">Baroque Neuro Game Dialogue</a><br/>2022.12.15</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hU9Yrpd0VSw"><img width="125px" src="https://i.ytimg.com/vi/hU9Yrpd0VSw/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=hU9Yrpd0VSw">Baroque Neuro Game HUD</a><br/>2022.11.25</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bS8tWftAO8w"><img width="125px" src="https://i.ytimg.com/vi/bS8tWftAO8w/mqdefault.jpg"></a></td>
-<td width="200"><a href="https://www.youtube.com/watch?v=bS8tWftAO8w">A Baroque Neurogame Blockout &lpar;Neurosity Crown&rpar;</a><br/>2022.10.14</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!---
