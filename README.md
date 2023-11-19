@@ -17,12 +17,12 @@
 [![Webpage](https://img.shields.io/badge/Webpage-%238e7cc3.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neurogamedev.com/)
 
 # Neuro Game Dev Vlog
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hnzEoNebF6U"><img width="125px" src="https://i.ytimg.com/vi/hnzEoNebF6U/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4R2L4AzUZSc"><img width="125px" src="https://i.ytimg.com/vi/4R2L4AzUZSc/mqdefault.jpg"></a></td>
+<td width="200"><a href="https://www.youtube.com/watch?v=4R2L4AzUZSc">Interaxon Muse 2 - First Impressions from a Game Designer</a><br/>2023.11.18</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hnzEoNebF6U"><img width="125px" src="https://i.ytimg.com/vi/hnzEoNebF6U/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=hnzEoNebF6U">NeuroMaze - Neurogame Demo in Unreal Engine 5.1</a><br/>2023.04.10</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ng7ZGUnlRv8"><img width="125px" src="https://i.ytimg.com/vi/ng7ZGUnlRv8/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=ng7ZGUnlRv8">Macrotellect BrainLink Pro - First Impressions from a Game Designer</a><br/>2023.03.04</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9XR14K8aL_k"><img width="125px" src="https://i.ytimg.com/vi/9XR14K8aL_k/mqdefault.jpg"></a></td>
-<td width="200"><a href="https://www.youtube.com/watch?v=9XR14K8aL_k">January 2023 Update</a><br/>2023.02.01</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!---
