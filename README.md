@@ -17,12 +17,12 @@
 [![Webpage](https://img.shields.io/badge/Webpage-%238e7cc3.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neurogamedev.com/)
 
 # Neuro Game Dev Vlog
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=j2nWfxCHa6U"><img width="125px" src="https://i.ytimg.com/vi/j2nWfxCHa6U/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6M8E2D9OBsQ"><img width="125px" src="https://i.ytimg.com/vi/6M8E2D9OBsQ/mqdefault.jpg"></a></td>
+<td width="200"><a href="https://www.youtube.com/watch?v=6M8E2D9OBsQ">The Path to Mainstream Neurogames - My Biased Opinion</a><br/>2025.01.24</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=j2nWfxCHa6U"><img width="125px" src="https://i.ytimg.com/vi/j2nWfxCHa6U/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=j2nWfxCHa6U">Madrid in Game - Hack Jam 6th Edition - Boozin&#39; Madrid</a><br/>2024.12.16</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xl8irNDRZC4"><img width="125px" src="https://i.ytimg.com/vi/xl8irNDRZC4/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=xl8irNDRZC4">Muse Template for Unity - Android Release</a><br/>2024.11.27</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=B9BcZV2J5x4"><img width="125px" src="https://i.ytimg.com/vi/B9BcZV2J5x4/mqdefault.jpg"></a></td>
-<td width="200"><a href="https://www.youtube.com/watch?v=B9BcZV2J5x4">Muse Template for Unity - Windows Release</a><br/>2024.10.31</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!---
