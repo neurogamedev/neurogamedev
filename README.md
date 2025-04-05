@@ -18,7 +18,7 @@
 
 # Neuro Game Dev Vlog
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk"><img width="125px" src="https://i.ytimg.com/vi/k9ihB-UdGmk/mqdefault.jpg"></a></td>
-<td width="200"><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk">Project Brazil - A Neurogame Pitch</a><br/>2025.03.29</td></tr></table>
+<td width="200"><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk">Project Brazil - A Neurogame Pitch</a><br/>2025.04.04</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vspqk-k8Qtw"><img width="125px" src="https://i.ytimg.com/vi/vspqk-k8Qtw/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=vspqk-k8Qtw">Neurogame Rant : Embracing the Dark Side</a><br/>2025.03.10</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6M8E2D9OBsQ"><img width="125px" src="https://i.ytimg.com/vi/6M8E2D9OBsQ/mqdefault.jpg"></a></td>
