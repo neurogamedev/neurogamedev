@@ -18,7 +18,7 @@
 
 # Neuro Game Dev Vlog
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_RzJ8iqcNAg"><img width="125px" src="https://i.ytimg.com/vi/_RzJ8iqcNAg/mqdefault.jpg"></a></td>
-<td width="200"><a href="https://www.youtube.com/watch?v=_RzJ8iqcNAg">Project Brazil - Now with pre-made assets!</a><br/>2025.05.01</td></tr></table>
+<td width="200"><a href="https://www.youtube.com/watch?v=_RzJ8iqcNAg">Project Brazil - Now with pre-made assets!</a><br/>2025.05.02</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk"><img width="125px" src="https://i.ytimg.com/vi/k9ihB-UdGmk/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk">Project Brazil - A Neurogame Pitch</a><br/>2025.04.04</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vspqk-k8Qtw"><img width="125px" src="https://i.ytimg.com/vi/vspqk-k8Qtw/mqdefault.jpg"></a></td>
