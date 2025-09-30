@@ -17,12 +17,12 @@
 [![Webpage](https://img.shields.io/badge/Webpage-%238e7cc3.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.neurogamedev.com/)
 
 # Neuro Game Dev Vlog
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=neWQZNOGQEE"><img width="125px" src="https://i.ytimg.com/vi/neWQZNOGQEE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z93vV1gjYOc"><img width="125px" src="https://i.ytimg.com/vi/z93vV1gjYOc/mqdefault.jpg"></a></td>
+<td width="200"><a href="https://www.youtube.com/watch?v=z93vV1gjYOc">Neurogames Near Future</a><br/>2025.09.29</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=neWQZNOGQEE"><img width="125px" src="https://i.ytimg.com/vi/neWQZNOGQEE/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=neWQZNOGQEE">Project Brazil - Looking for Music</a><br/>2025.08.05</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_RzJ8iqcNAg"><img width="125px" src="https://i.ytimg.com/vi/_RzJ8iqcNAg/mqdefault.jpg"></a></td>
 <td width="200"><a href="https://www.youtube.com/watch?v=_RzJ8iqcNAg">Project Brazil - Now with pre-made assets!</a><br/>2025.05.02</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk"><img width="125px" src="https://i.ytimg.com/vi/k9ihB-UdGmk/mqdefault.jpg"></a></td>
-<td width="200"><a href="https://www.youtube.com/watch?v=k9ihB-UdGmk">Project Brazil - A Neurogame Pitch</a><br/>2025.04.04</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!---
